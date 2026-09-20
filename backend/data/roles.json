@@ -1,0 +1,44 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "description": "Develops both client and server software, bridging web user interfaces with database and backend APIs.",
+    "required": ["JavaScript", "React", "Node.js", "SQL"],
+    "important": ["TypeScript", "Docker", "Git", "PostgreSQL"],
+    "optional": ["AWS", "Express", "Tailwind CSS", "Redis"]
+  },
+  {
+    "role": "Frontend Developer",
+    "description": "Specializes in building responsive, fast, and interactive user interfaces using modern JavaScript frameworks.",
+    "required": ["JavaScript", "React", "HTML", "CSS"],
+    "important": ["TypeScript", "Next.js", "Tailwind CSS", "Git"],
+    "optional": ["Redux", "Figma", "Vue.js", "Jest"]
+  },
+  {
+    "role": "Backend Engineer",
+    "description": "Designs, builds, and maintains server-side architecture, APIs, data pipelines, and database systems.",
+    "required": ["Python", "Node.js", "SQL", "REST API"],
+    "important": ["FastAPI", "PostgreSQL", "Docker", "Git"],
+    "optional": ["Redis", "AWS", "MongoDB", "Microservices"]
+  },
+  {
+    "role": "Python Developer",
+    "description": "Builds scalable backend applications, APIs, automation scripts, and data services using Python.",
+    "required": ["Python", "SQL", "REST API"],
+    "important": ["FastAPI", "Django", "PostgreSQL", "Git"],
+    "optional": ["Docker", "Pandas", "Redis", "AWS"]
+  },
+  {
+    "role": "Data Analyst / Engineer",
+    "description": "Processes, transforms, and analyzes large datasets to derive insights and build data-driven applications.",
+    "required": ["Python", "SQL", "Pandas"],
+    "important": ["NumPy", "PostgreSQL", "Git", "Scikit-Learn"],
+    "optional": ["AWS", "Docker", "MongoDB", "FastAPI"]
+  },
+  {
+    "role": "DevOps Engineer",
+    "description": "Automates deployment pipelines, manages cloud infrastructure, containerization, and system reliability.",
+    "required": ["Docker", "Linux", "Git", "CI/CD"],
+    "important": ["Kubernetes", "AWS", "GitHub Actions", "Python"],
+    "optional": ["Terraform", "Nginx", "PostgreSQL", "Bash"]
+  }
+]
